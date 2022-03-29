@@ -14,7 +14,6 @@ public class Ejercicio01 : MonoBehaviour
         num1 += 2;
         Debug.Log(num1);
         Debug.Log(num1*num1);
-
     }
 
     // Update is called once per frame
