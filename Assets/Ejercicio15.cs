@@ -14,6 +14,7 @@ public class Ejercicio15 : MonoBehaviour
     void Start()
     {
         int num1;
+
         num1 = Convert.ToInt32(num);
 
         if (num.Length == 1)
